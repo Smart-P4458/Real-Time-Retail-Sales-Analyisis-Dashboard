@@ -10,7 +10,7 @@ Dashboard Image
 ---
 
 
-![Dashboard with Tooltip](https://github.com/Smart-P4458/Real-Time-Retail-Sales-Analyisis-Dashboard/blob/main/Images/Power%20BI%20Retail%20Sales%20Dashboard.png?raw=true)
+![Dashboard with Tooltip](https://github.com/Smart-P4458/Real-Time-Retail-Sales-Analyisis-Dashboard/blob/main/Images/PBIDashboard%20with%20Tooltip.png?raw=true)
 
 ---
 
