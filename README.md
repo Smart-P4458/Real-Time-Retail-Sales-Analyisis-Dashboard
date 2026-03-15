@@ -15,4 +15,4 @@ Dashboard Image
 ---
 
 
-![Customer / Product Drillthrough](https://github.com/Smart-P4458/Real-Time-Retail-Sales-Analyisis-Dashboard/blob/main/Images/Power%20BI%20Retail%20Sales%20Dashboard.png?raw=true)
+![Customer / Product Drillthrough](https://github.com/Smart-P4458/Real-Time-Retail-Sales-Analyisis-Dashboard/blob/main/Images/PBI_Customer_Product%20Deep%20Dive%20page.png?raw=true)
