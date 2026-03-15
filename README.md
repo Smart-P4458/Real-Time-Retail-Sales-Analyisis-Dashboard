@@ -6,3 +6,13 @@ This project demonstrates the end-to-end process of building a real-time retail 
 Dashboard Image
 
 ![Main Dashboard Overview](https://github.com/Smart-P4458/Real-Time-Retail-Sales-Analyisis-Dashboard/blob/main/Images/Power%20BI%20Retail%20Sales%20Dashboard.png?raw=true)
+
+---
+
+
+![Dashboard with Tooltip](https://github.com/Smart-P4458/Real-Time-Retail-Sales-Analyisis-Dashboard/blob/main/Images/Power%20BI%20Retail%20Sales%20Dashboard.png?raw=true)
+
+---
+
+
+![Customer / Product Drillthrough](https://github.com/Smart-P4458/Real-Time-Retail-Sales-Analyisis-Dashboard/blob/main/Images/Power%20BI%20Retail%20Sales%20Dashboard.png?raw=true)
